@@ -1,0 +1,15 @@
+/Users/Leo/Desktop/Coding/Calculator-Csharp/bin/Debug/net6.0/Calculator-Csharp
+/Users/Leo/Desktop/Coding/Calculator-Csharp/bin/Debug/net6.0/Calculator-Csharp.deps.json
+/Users/Leo/Desktop/Coding/Calculator-Csharp/bin/Debug/net6.0/Calculator-Csharp.runtimeconfig.json
+/Users/Leo/Desktop/Coding/Calculator-Csharp/bin/Debug/net6.0/Calculator-Csharp.dll
+/Users/Leo/Desktop/Coding/Calculator-Csharp/bin/Debug/net6.0/Calculator-Csharp.pdb
+/Users/Leo/Desktop/Coding/Calculator-Csharp/obj/Debug/net6.0/Calculator-Csharp.csproj.AssemblyReference.cache
+/Users/Leo/Desktop/Coding/Calculator-Csharp/obj/Debug/net6.0/Calculator-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Leo/Desktop/Coding/Calculator-Csharp/obj/Debug/net6.0/Calculator-Csharp.AssemblyInfoInputs.cache
+/Users/Leo/Desktop/Coding/Calculator-Csharp/obj/Debug/net6.0/Calculator-Csharp.AssemblyInfo.cs
+/Users/Leo/Desktop/Coding/Calculator-Csharp/obj/Debug/net6.0/Calculator-Csharp.csproj.CoreCompileInputs.cache
+/Users/Leo/Desktop/Coding/Calculator-Csharp/obj/Debug/net6.0/Calculator-Csharp.dll
+/Users/Leo/Desktop/Coding/Calculator-Csharp/obj/Debug/net6.0/refint/Calculator-Csharp.dll
+/Users/Leo/Desktop/Coding/Calculator-Csharp/obj/Debug/net6.0/Calculator-Csharp.pdb
+/Users/Leo/Desktop/Coding/Calculator-Csharp/obj/Debug/net6.0/Calculator-Csharp.genruntimeconfig.cache
+/Users/Leo/Desktop/Coding/Calculator-Csharp/obj/Debug/net6.0/ref/Calculator-Csharp.dll
